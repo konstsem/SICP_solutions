@@ -1,1 +1,2 @@
-# solutions for exercises from the book SICP
+# SICP
+solutions for exercises from the book SICP
