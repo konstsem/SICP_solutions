@@ -1,4 +1,4 @@
 test:
-	raco test sicp
+	raco test chapter1
 
 .PHONY: test
