@@ -1,4 +1,4 @@
 test:
-	raco test chapter1
+	raco test .
 
 .PHONY: test
